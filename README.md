@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Hello Teman-Teman DTS-02-Java
 
 ## Semangat...
@@ -7,3 +8,6 @@
 ## Ok...
 
 ## Tes...
+=======
+# test init
+>>>>>>> 694a443 (first commit)
