@@ -6,12 +6,12 @@
 
 ## 2. Melakukan remote repo
 
-![My Image](public/pict1.png)
+![My Image](public/pict2.png)
 
 ## 3. Membuat branch child dengan nama Dhimas
 
-![My Image](public/pict1.png)
+![My Image](public/pict3.png)
 
-## 4. Mengisialisasi git init pada folder local
+## 4. Mengecek dan menambah file ke staging area
 
-![My Image](public/pict1.png)
+![My Image](public/pict4.png)
