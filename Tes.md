@@ -1,7 +1,4 @@
 # Hai............................
 
-# Test 2 09/04/2023 00/03
+# Tes 3 way merge with conflict
 
-# 3 way merge....????????>>>>
-
-# i dunnooo.....hahahhahahahahah
