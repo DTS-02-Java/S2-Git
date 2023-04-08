@@ -43,3 +43,31 @@
 # ff merge
 
 ![ff_merge](Picture/ff_merge.png)
+
+# prepare 3-way_merge
+
+![3_way_merge](Picture/prepare_3way_merge.png)
+
+# git clone
+
+![git_clone](Picture/git_clone.png)
+
+# push child branch
+
+![push_child](Picture/push_child_branch_on_S2_GIT.png)
+
+# pill request conlict
+
+![puu_req_con](Picture/pull_request_conflict.png)
+
+# conflict
+
+![conflict](Picture/there's_conflict.png)
+
+# resolve conflict
+
+![resolve_confl](Picture/resolve_conflict.png)
+
+# pull request done
+
+![pull_req_done](Picture/pull_request_done.png)
