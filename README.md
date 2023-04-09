@@ -1,13 +1,5 @@
-<<<<<<< HEAD
-# Hello Teman-Teman DTS-02-Java
+# TUGAS GIT BAIHAQI LUHUR PANGESTIKA
 
-## Semangat...
+# 1. Silahkan teman2 implementasi apa yang sudah dipelajari terkait git dari initial git, dll
 
-## Pasti dong...
-
-## Ok...
-
-## Tes...
-=======
-# test init
->>>>>>> 694a443 (first commit)
+![Alt text](/image/1.jpg?raw=true "GIT INIT")
