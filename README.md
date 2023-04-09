@@ -55,3 +55,7 @@
 ![My Image](public/pict19.png)
 ![My Image](public/pict20.png)
 ![My Image](public/pict21.png)
+
+### Graph Three Way
+
+![My Image](public/pict22.png)
