@@ -1,11 +1,12 @@
-# Hello Teman-Teman DTS-02-Java
+# Soal 1
 
-## Semangat...
+![alt text](https://raw.githubusercontent.com/DTS-B2-Java/S2-Git/Arfal/img/soal%201.jpg)
 
-## Pasti dong...
 
-## Ok...
+# Soal 2
 
-## Tes...
+![alt text](https://raw.githubusercontent.com/DTS-B2-Java/S2-Git/Arfal/img/soal%202.jpg)
 
-# test init
+# Soal 3
+
+![alt text](https://raw.githubusercontent.com/DTS-B2-Java/S2-Git/Arfal/img/soal%203.jpg)
