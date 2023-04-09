@@ -44,6 +44,8 @@
 
 ![ff_merge](Picture/ff_merge.png)
 
+# 3. Three Way Merge dan solved conflict pada git, dengan merge untuk Three Way Merging dengan cara pull request dengan review akun @fuad dan assign jangan lupa
+
 # prepare 3-way_merge
 
 ![3_way_merge](Picture/prepare_3way_merge.png)
@@ -51,6 +53,26 @@
 # git clone
 
 ![git_clone](Picture/git_clone.png)
+
+# ==========================================
+
+# 3WM-Terminal
+
+# try 3 way merge-terminal
+
+![3w_merge](Picture/3way_merge_terminal.png)
+
+# resolve 3WM (code editor)
+
+![r_3WM](Picture/resolve_3_way_merge.png)
+
+# log for 3WM
+
+![3WM_log](Picture/log-3way-conf.png)
+
+# ==========================================
+
+# 3WM Pull Req
 
 # push child branch
 
