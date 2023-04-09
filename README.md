@@ -13,4 +13,4 @@
 
 ##
 
-sedang belajar git
+sedang belajar git dan yang lainnya

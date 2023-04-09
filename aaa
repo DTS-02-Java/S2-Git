@@ -1,0 +1,208 @@
+[33mcommit 021d18ba170beae00733e515800e96976ce661b2[m[33m ([m[1;36mHEAD -> [m[1;32myusufori[m[33m)[m
+Author: oriro <anshorgantenkk@gmail.com>
+Date:   Sun Apr 9 21:41:17 2023 +0700
+
+    sedang belajar
+
+[33mcommit 446d453c2fe025cae94b65cf652aa69440c2a817[m[33m ([m[1;31morigin/yusufori[m[33m, [m[1;32mmain[m[33m)[m
+Author: oriro <anshorgantenkk@gmail.com>
+Date:   Sun Apr 9 21:37:28 2023 +0700
+
+    Nambah
+
+[33mcommit 1d52871a7193c5f505e76133ca8c679d8783d957[m
+Author: oriro <anshorgantenkk@gmail.com>
+Date:   Sun Apr 9 21:34:02 2023 +0700
+
+    update 1 line
+
+[33mcommit 670cc97d21f260f24d912689699d1dc08d4c8f6b[m
+Author: oriro <anshorgantenkk@gmail.com>
+Date:   Sun Apr 9 21:24:16 2023 +0700
+
+    coba edit
+
+[33mcommit bfce86149c5f2bb9dbee16a8d3a3e887dbe38747[m[33m ([m[1;31morigin/main[m[33m, [m[1;31morigin/HEAD[m[33m)[m
+Merge: 858360f 9f3deae
+Author: Baihaqi Luhur Pangestika <32696458+baihaqilp@users.noreply.github.com>
+Date:   Sun Apr 9 20:06:15 2023 +0700
+
+    Merge pull request #6 from DTS-B2-Java/Baihaqi
+    
+    3 way Merge Conflict
+
+[33mcommit 9f3deae9e387ab211a62d9e48254d83fc21e659e[m
+Merge: fcdfd68 2b0c747
+Author: baihaqilp <baihaqiluhurpangestika@gmail.com>
+Date:   Sun Apr 9 20:03:36 2023 +0700
+
+    3way redo conflict solved
+
+[33mcommit 2b0c74767454ee0ec74f99de009f8e539f473492[m
+Author: baihaqilp <baihaqiluhurpangestika@gmail.com>
+Date:   Sun Apr 9 20:02:08 2023 +0700
+
+    redo3way accept
+
+[33mcommit fcdfd687b273fee4ff1dd90e948d586c24f95eef[m
+Author: baihaqilp <baihaqiluhurpangestika@gmail.com>
+Date:   Sun Apr 9 20:01:05 2023 +0700
+
+    redo
+
+[33mcommit 858360f68f2daaa6f6a7bf2621630b60f2c0a5ea[m
+Merge: 1138b0f 22287a1
+Author: baihaqilp <baihaqiluhurpangestika@gmail.com>
+Date:   Sun Apr 9 19:44:56 2023 +0700
+
+    resolverd 3way
+
+[33mcommit 1138b0fa0d0f40c78c2a6735511059b740668a0e[m
+Author: baihaqilp <baihaqiluhurpangestika@gmail.com>
+Date:   Sun Apr 9 19:39:14 2023 +0700
+
+    edit tes.md 3way
+
+[33mcommit 22287a12bed123eb393f9e4eeeee63a658c1079e[m
+Author: baihaqilp <baihaqiluhurpangestika@gmail.com>
+Date:   Sun Apr 9 19:36:59 2023 +0700
+
+    tes.md edited
+
+[33mcommit cc2e8067b75cbe97d86e27e5355b3fdc5e24ee49[m
+Merge: a8c90e5 716da77
+Author: Dhimas <44453057+dhimas29@users.noreply.github.com>
+Date:   Sun Apr 9 11:36:03 2023 +0700
+
+    Merge pull request #5 from DTS-B2-Java/Dhimas
+    
+    conflict resolve
+
+[33mcommit 716da77710b042d17fa7bcab37ae898a490b7f49[m
+Author: dhimas <dhimas.alvianrifita@gmail.com>
+Date:   Sun Apr 9 11:33:47 2023 +0700
+
+    edit file
+
+[33mcommit a8c90e508c46d763eb786bb32f77e3cf73be58ab[m
+Merge: 3d796ad 3119217
+Author: dhimas <dhimas.alvianrifita@gmail.com>
+Date:   Sun Apr 9 10:53:01 2023 +0700
+
+    Merge branch 'Dhimas'
+
+[33mcommit 3d796ad268151337b3ae657b0f44d4639b06b5e0[m
+Author: dhimas <dhimas.alvianrifita@gmail.com>
+Date:   Sun Apr 9 10:48:59 2023 +0700
+
+    edit file on test three way conflict
+
+[33mcommit 31192173f76dd2d56397cbb77647d59f25e5c2ab[m
+Author: dhimas <dhimas.alvianrifita@gmail.com>
+Date:   Sun Apr 9 10:46:47 2023 +0700
+
+    edit file tes
+
+[33mcommit 627e29aa8b86360a90f13e34aebfe8929f8a172f[m
+Merge: e95418c bc1a95f
+Author: Akiyaaa <107343416+Akiyaaaaaa@users.noreply.github.com>
+Date:   Sun Apr 9 00:44:16 2023 +0700
+
+    Merge pull request #4 from DTS-B2-Java/childZad
+    
+    3 way merge conflict (Zadid)
+
+[33mcommit bc1a95ffb97e285933279e32dadb34f560abf9b0[m
+Merge: e9492dc e95418c
+Author: Akiyaaa <107343416+Akiyaaaaaa@users.noreply.github.com>
+Date:   Sun Apr 9 00:43:40 2023 +0700
+
+    Merge branch 'main' into childZad
+
+[33mcommit e9492dc856c494d75dd9f224d00326ca63ffff2d[m
+Author: Zadid Taqwa <Zadidtaqwa123@gmail.com>
+Date:   Sun Apr 9 00:35:28 2023 +0700
+
+    add another note in Tes.md
+
+[33mcommit e95418c088895122c25a34c3e9b9e2039646bd0b[m
+Author: Zadid Taqwa <Zadidtaqwa123@gmail.com>
+Date:   Sun Apr 9 00:34:07 2023 +0700
+
+    add note in Tes.md
+
+[33mcommit b8edc98d3b42431248f98d25f7814e19edcbb9b4[m
+Author: Zadid Taqwa <Zadidtaqwa123@gmail.com>
+Date:   Sun Apr 9 00:30:19 2023 +0700
+
+    add detail in Tes.md
+
+[33mcommit 3a17f855d1ef3c7cec6c78e99e28240f1dbb4f86[m
+Author: Zadid Taqwa <Zadidtaqwa123@gmail.com>
+Date:   Sun Apr 9 00:13:17 2023 +0700
+
+    add something in Tes.md
+
+[33mcommit 332c94156a25bb257966b241b4851e410c5af008[m
+Author: Zadid Taqwa <Zadidtaqwa123@gmail.com>
+Date:   Sun Apr 9 00:04:26 2023 +0700
+
+    add desc in Tes.md
+
+[33mcommit 21ccf3b660e7324de18ffbf410f3f58c9c3b6168[m
+Author: baihaqilp <baihaqiluhurpangestika@gmail.com>
+Date:   Thu Apr 6 15:37:15 2023 +0700
+
+    first commit
+
+[33mcommit 334cfa43abd69b3d5dd9f8c1c23cef13c91b575c[m
+Author: fuzi <fzein.1695@gmail.com>
+Date:   Thu Apr 6 15:06:34 2023 +0700
+
+    example conflict 2
+
+[33mcommit 6b76502295fe3f8f3b5613882af941ac99828812[m
+Merge: 91e90a5 b5176e8
+Author: fuzi <37636240+fuad-zein@users.noreply.github.com>
+Date:   Thu Apr 6 15:03:11 2023 +0700
+
+    Merge pull request #1 from DTS-B2-Java/develop
+    
+    Pull Request from Develop to Main
+
+[33mcommit b5176e838584a907615d75fe4281e81ba1b8205c[m
+Merge: 27f13b3 91e90a5
+Author: fuzi <fzein.1695@gmail.com>
+Date:   Thu Apr 6 14:58:32 2023 +0700
+
+    solved conflict
+
+[33mcommit 91e90a5459e403881c2911b3ab7ad784d4c303f2[m
+Author: fuzi <fzein.1695@gmail.com>
+Date:   Thu Apr 6 14:53:18 2023 +0700
+
+    test three way merge - main
+
+[33mcommit 27f13b354ef1edebf90949f4d379de88b8b8e8d4[m
+Author: fuzi <fzein.1695@gmail.com>
+Date:   Thu Apr 6 14:52:25 2023 +0700
+
+    test three way merge
+
+[33mcommit a8c190f01c38df5535447f25c70b28c398751f66[m
+Author: fuzi <fzein.1695@gmail.com>
+Date:   Thu Apr 6 14:36:55 2023 +0700
+
+    add file on test fast forward merge
+
+[33mcommit 76063c7d0851c1129973d939cb48c41481c250f1[m
+Author: fuzi <fzein.1695@gmail.com>
+Date:   Thu Apr 6 14:29:38 2023 +0700
+
+    examples of file status lifecycle
+
+[33mcommit d5c961fbc8f7ea3f85020652463e245fd9da5ceb[m
+Author: fuzi <fzein.1695@gmail.com>
+Date:   Thu Apr 6 14:23:31 2023 +0700
+
+    add REQDME.md
