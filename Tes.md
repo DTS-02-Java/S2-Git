@@ -2,3 +2,4 @@
 
 # Tes 3 way merge with conflict
 
+# Example Conflict
