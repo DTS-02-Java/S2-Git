@@ -1,13 +1,24 @@
-<<<<<<< HEAD
-# Hello Teman-Teman DTS-02-Java
 
-## Semangat...
+# Git Introduction 
+Agus Rokyanto S
 
-## Pasti dong...
+## git clone
+![clone](src/clone.png)
 
-## Ok...
+## git init
+![init](src/init.png)
 
-## Tes...
-=======
-# test init
->>>>>>> 694a443 (first commit)
+## git add and commit
+![add](src/add_and_commit.png)
+
+## branching
+![branching](src/branching.png)
+
+## agus
+![agus](src/agus.png)
+
+## graph
+![graph](src/graph.png)
+
+## merging
+![merging](src/merging.png)
