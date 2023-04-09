@@ -1,13 +1,12 @@
-<<<<<<< HEAD
-# Hello Teman-Teman DTS-02-Java
+# Tugas Latihan Git
 
-## Semangat...
+## 1. mengimplementasi materi yang sudah disampaikan
 
-## Pasti dong...
+![Coba Implementasi](img/0.jpg)
 
-## Ok...
+## 2. remote skenario fast-forward
 
-## Tes...
-=======
-# test init
->>>>>>> 694a443 (first commit)
+![Coba Implementasi](img/1.jpg)
+![Coba Implementasi](img/2.jpg)
+![Coba Implementasi](img/3.jpg)
+![Coba Implementasi](img/4.jpg)
