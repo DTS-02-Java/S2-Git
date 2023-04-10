@@ -2,6 +2,8 @@
 
 # Tes
 
+# Semangat...
+
 # Hello
 
 # DTS 02 Java
